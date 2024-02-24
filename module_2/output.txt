@@ -1,5 +1,5 @@
 total 1168
-drwxr-xr-x 133 root root   12288 фев 23 22:38 .
+drwxr-xr-x 133 root root   12288 фев 24 20:57 .
 drwxr-xr-x  20 root root    4096 фев 22 21:47 ..
 drwxr-xr-x   3 root root    4096 авг  8  2023 acpi
 -rw-r--r--   1 root root    3028 авг  8  2023 adduser.conf
@@ -17,7 +17,7 @@ drwxr-xr-x   8 root root    4096 фев 22 21:53 apt
 drwxr-xr-x   3 root root    4096 фев 22 22:03 avahi
 -rw-r--r--   1 root root    2319 янв  6  2022 bash.bashrc
 -rw-r--r--   1 root root      45 ноя 11  2021 bash_completion
-drwxr-xr-x   2 root root    4096 авг  8  2023 bash_completion.d
+drwxr-xr-x   2 root root    4096 фев 24 21:58 bash_completion.d
 -rw-r--r--   1 root root     367 дек 16  2020 bindresvport.blacklist
 drwxr-xr-x   2 root root    4096 апр  7  2022 binfmt.d
 drwxr-xr-x   2 root root    4096 фев 22 22:02 bluetooth
@@ -36,7 +36,7 @@ drwxr-xr-x   2 root root    4096 авг  8  2023 cron.hourly
 drwxr-xr-x   2 root root    4096 авг  8  2023 cron.monthly
 -rw-r--r--   1 root root    1136 мар 23  2022 crontab
 drwxr-xr-x   2 root root    4096 авг  8  2023 cron.weekly
-drwxr-xr-x   5 root lp      4096 фев 23 22:32 cups
+drwxr-xr-x   5 root lp      4096 фев 24 22:48 cups
 drwxr-xr-x   2 root root    4096 авг  8  2023 cupshelpers
 drwxr-xr-x   4 root root    4096 авг  8  2023 dbus-1
 drwxr-xr-x   4 root root    4096 авг  8  2023 dconf
@@ -97,7 +97,7 @@ drwxr-xr-x   6 root root    4096 авг  8  2023 kernel
 -rw-r--r--   1 root root     110 фев 22 21:49 kernel-img.conf
 -rw-r--r--   1 root root    1308 мар 24  2022 kerneloops.conf
 drwxr-xr-x   2 root root    4096 фев 22 22:02 ldap
--rw-r--r--   1 root root   58963 фев 23 22:38 ld.so.cache
+-rw-r--r--   1 root root   59083 фев 23 23:29 ld.so.cache
 -rw-r--r--   1 root root      34 дек 16  2020 ld.so.conf
 drwxr-xr-x   2 root root    4096 фев 23 22:38 ld.so.conf.d
 -rw-r--r--   1 root root     267 окт 15  2021 legal
@@ -119,7 +119,7 @@ drwxr-xr-x   2 root root    4096 фев 22 22:03 logrotate.d
 -r--r--r--   1 root root      33 фев 22 21:52 machine-id
 -rw-r--r--   1 root root     111 мар 24  2022 magic
 -rw-r--r--   1 root root     111 мар 24  2022 magic.mime
--rw-r--r--   1 root root   36929 фев 23 22:33 mailcap
+-rw-r--r--   1 root root   36929 фев 24 20:57 mailcap
 -rw-r--r--   1 root root     449 дек 11  2021 mailcap.order
 -rw-r--r--   1 root root    5217 мар 17  2022 manpath.config
 -rw-r--r--   1 root root   72029 мар 21  2022 mime.types

@@ -1,3 +1,6 @@
+import os
+
+
 def convert(nums: str):
     # байты
     num_int = int(nums)
@@ -11,7 +14,10 @@ def convert(nums: str):
         return nums
 
 
-with open('output', 'r', encoding='utf-8') as file:
+dir_name = os.path.dirname(os.path.abspath(__file__))
+path_file = os.path.join(dir_name, 'output.txt')
+
+with open(path_file, 'r', encoding='utf-8') as file:
     lines = file.readlines()
     folder_count = 0
     file_count = 0
